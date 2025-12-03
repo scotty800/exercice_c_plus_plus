@@ -2,7 +2,7 @@
 #include <thread>
 #include <vector>
 #include <memory>
-#include <thread>
+
 using namespace std;
 
 class Personnage;
